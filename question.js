@@ -198,435 +198,435 @@ questions = [
         }
     },
     {
-        "question": "Military spending is a waste of money.",
+        "question": " Extreme Nationalisten in Polizei und Militär stellen eine große Gefahr dar.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 0
+            "cap": 0,
+            "nat": 10,
+            "dem": 10,
+            "fff": 0
         }
     },
     {
-        "question": "International aid is a waste of money.",
+        "question": "Internationale Hilfsangebote sind Geldverschwendung.",
         "effect": {
-            "econ": -5,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
+            "cap": -5,
+            "nat": -10,
+            "dem": 0,
+            "fff": 0
         }
     },
     {
-        "question": "My nation is great.",
+        "question": "Patrotismus gehört zum internationalen Mannschaftssport dazu.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": 0,
-            "scty": 0
+            "cap": 0,
+            "nat": -10,
+            "dem": 0,
+            "fff": 0
         }
     },
     {
-        "question": "Research should be conducted on an international scale.",
+        "question": "Der Gewinn meiner Nation ist wichtiger als der Schutz der Natur in anderen Ländern.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 10
+            "cap": 0,
+            "nat": 10,
+            "dem": 0,
+            "fff": 10
         }
     },
     {
-        "question": "Governments should be accountable to the international community.",
+        "question": "Wäre meine Nation eine Diktatur, würde ich mich an einer Revolution beteiligen.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 5,
-            "scty": 0
+            "cap": 0,
+            "nat": 10,
+            "dem": 5,
+            "fff": 0
         }
     },
     {
-        "question": "Even when protesting an authoritarian government, violence is not acceptable.",
+        "question": "Eine zentrale Regierung ist besser als Förderalismus.",
         "effect": {
-            "econ": 0,
-            "dipl": 5,
-            "govt": -5,
-            "scty": 0
+            "cap": 0,
+            "nat": 5,
+            "dem": -5,
+            "fff": 0
         }
     },
     {
-        "question": "My religious values should be spread as much as possible.",
+        "question": "Ich glaube an einen Gott. Mein Gott ist der einzige, richtige Gott.",
         "effect": {
-            "econ": 0,
-            "dipl": -5,
-            "govt": -10,
-            "scty": -10
+            "cap": 0,
+            "nat": -5,
+            "dem": -10,
+            "fff": -10
         }
     },
     {
-        "question": "Our nation's values should be spread as much as possible.",
+        "question": "Ich singe gerne die Nationalhymne.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -5,
-            "scty": 0
+            "cap": 0,
+            "nat": -10,
+            "dem": -5,
+            "fff": 0
         }
     },
     {
-        "question": "It is very important to maintain law and order.",
+        "question": "Gesetze sollten unabhängig von der individuellen Situation durchgesetzt werden.",
         "effect": {
-            "econ": 0,
-            "dipl": -5,
-            "govt": -10,
-            "scty": -5
+            "cap": 0,
+            "nat": -5,
+            "dem": -10,
+            "fff": -5
         }
     },
     {
-        "question": "The general populace makes poor decisions.",
+        "question": "Autorität sollten unabhängigvon Fehlern respektiert werden.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "cap": 0,
+            "nat": 0,
+            "dem": -10,
+            "fff": 0
         }
     },
     {
-        "question": "Physician-assisted suicide should be legal.",
+        "question": "Der größte Teil der Bevölkerung sollte auch die meiste Macht haben.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "cap": 0,
+            "nat": 0,
+            "dem": 10,
+            "fff": 0
         }
     },
     {
-        "question": "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
+        "question": "Ohne strenge Regeln entsteht immer Chaos.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "cap": 0,
+            "nat": 0,
+            "dem": -10,
+            "fff": 0
         }
     },
     {
-        "question": "Government surveillance is necessary in the modern world.",
+        "question": "Basisdemokratie ist sehr langsam und daher einem autokratischen System unterlegen.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "cap": 0,
+            "nat": 0,
+            "dem": -10,
+            "fff": 0
         }
     },
     {
-        "question": "The very existence of the state is a threat to our liberty.",
+        "question": "Egal in welcher Form, die Demokratie ist immer notwendig.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "cap": 0,
+            "nat": 0,
+            "dem": 10,
+            "fff": 0
         }
     },
     {
-        "question": "Regardless of political opinions, it is important to side with your country.",
+        "question": "Personenkulte verstärken das Nationalgefühl und wirken sich daher positiv aus.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": -5
+            "cap": 0,
+            "nat": -10,
+            "dem": -10,
+            "fff": -5
         }
     },
     {
-        "question": "All authority should be questioned.",
+        "question": "Der Großteil der Weltbevölkerung profitiert vom Umweltschutz.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 5
+            "cap": 0,
+            "nat": 0,
+            "dem": 10,
+            "fff": 5
         }
     },
     {
-        "question": "A hierarchical state is best.",
+        "question": "Hierarchie ist notwendig für eine Gesellschaft.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "cap": 0,
+            "nat": 0,
+            "dem": -10,
+            "fff": 0
         }
     },
     {
-        "question": "It is important that the government follows the majority opinion, even if it is wrong.",
+        "question": "Die französische Revolutionwar die Befreiung des Volkes von der Monarchie.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "cap": 0,
+            "nat": 0,
+            "dem": 10,
+            "fff": 0
         }
     },
     {
-        "question": "The stronger the leadership, the better.",
+        "question": "Das Regierungssystem meiner Nation ist das bestmögliche System.",
         "effect": {
-            "econ": 0,
-            "dipl": -10,
-            "govt": -10,
-            "scty": 0
+            "cap": 0,
+            "nat": -10,
+            "dem": -10,
+            "fff": 0
         }
     },
     {
-        "question": "Democracy is more than a decision-making process.",
+        "question": "In allen Verwaltungsorganen ist ein demokratisches Systemvon Vorteil.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 0
+            "cap": 0,
+            "nat": 0,
+            "dem": 10,
+            "fff": 0
         }
     },
     {
-        "question": "Environmental regulations are essential.",
+        "question": "Der Klimawandel ist eines der größten Probleme unserer Generation und unsere Regierung sollte sich dem Problem so schnell wie möglich annehmen.",
         "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "cap": 5,
+            "nat": 0,
+            "dem": 0,
+            "fff": 10
         }
     },
     {
-        "question": "A better world will come from automation, science, and technology.",
+        "question": "Die Zukunft gehört der Technik.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "cap": 0,
+            "nat": 0,
+            "dem": 0,
+            "fff": 10
         }
     },
     {
-        "question": "Children should be educated in religious or traditional values.",
+        "question": "Religionen und Traditionen sind ein wichtiger als Forschung.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": -10
+            "cap": 0,
+            "nat": 0,
+            "dem": -5,
+            "fff": -10
         }
     },
     {
-        "question": "Traditions are of no value on their own.",
+        "question": "Künstliche Intelligenzen können Probleme schneller und besser lösen als Menschen.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "cap": 0,
+            "nat": 0,
+            "dem": 0,
+            "fff": 10
         }
     },
     {
-        "question": "Religion should play a role in government.",
+        "question": "Die Vergangenheit ist wichtiger als die Zukunft.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
+            "cap": 0,
+            "nat": 0,
+            "dem": -10,
+            "fff": -10
         }
     },
     {
-        "question": "Churches should be taxed the same way other institutions are taxed.",
+        "question": "Autofreie Innenstädte sind eine gute Idee.",
         "effect": {
-            "econ": 5,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "cap": 5,
+            "nat": 0,
+            "dem": 0,
+            "fff": 10
         }
     },
     {
-        "question": "Climate change is currently one of the greatest threats to our way of life.",
+        "question": "Umweltfreundliche Technik sollte subventioniert werden.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "cap": 0,
+            "nat": 0,
+            "dem": 0,
+            "fff": 10
         }
     },
     {
-        "question": "It is important that we work as a united world to combat climate change.",
+        "question": "Klimawandel ist ein internationales Problem.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 10
+            "cap": 0,
+            "nat": 10,
+            "dem": 0,
+            "fff": 10
         }
     },
     {
-        "question": "Society was better many years ago than it is now.",
+        "question": "Der Klimawandel ist nicht menschengemacht.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "cap": 0,
+            "nat": 0,
+            "dem": 0,
+            "fff": -10
         }
     },
     {
-        "question": "It is important that we maintain the traditions of our past.",
+        "question": "FridaysforFuture ist eine populistische Bewegung.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "cap": 0,
+            "nat": 0,
+            "dem": 0,
+            "fff": -10
         }
     },
     {
-        "question": "It is important that we think in the long term, beyond our lifespans.",
+        "question": "Die Menschheit wird sich in der Zukunft wahrscheinlich selbst auslöschen.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "cap": 0,
+            "nat": 0,
+            "dem": 0,
+            "fff": 10
         }
     },
     {
-        "question": "Reason is more important than maintaining our culture.",
+        "question": "Atomkraft ist prinzipiell eine gute Idee.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "cap": 0,
+            "nat": 0,
+            "dem": 0,
+            "fff": 10
         }
     },
     {
-        "question": "Drug use should be legalized or decriminalized.",
+        "question": "Ich bin für die Legalisierungvon weichen Drogen.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 2
+            "cap": 0,
+            "nat": 0,
+            "dem": 10,
+            "fff": 2
         }
     },
     {
-        "question": "Same-sex marriage should be legal.",
+        "question": "Jeder Mensch sollte heiraten und lieben dürfen wen er:sie will.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 10,
-            "scty": 10
+            "cap": 0,
+            "nat": 0,
+            "dem": 10,
+            "fff": 10
         }
     },
     {
-        "question": "No cultures are superior to others.",
+        "question": "Keine Kultur ist einer anderen moralisch überlegen.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 5,
-            "scty": 10
+            "cap": 0,
+            "nat": 10,
+            "dem": 5,
+            "fff": 10
         }
     },
     {
-        "question": "Sex outside marriage is immoral.",
+        "question": "Sex dient nur der Fortpflanzung. Das Gebären von Kindern sollte Pflicht für Frauen sein.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": -10
+            "cap": 0,
+            "nat": 0,
+            "dem": -5,
+            "fff": -10
         }
     },
     {
-        "question": "If we accept migrants at all, it is important that they assimilate into our culture.",
+        "question": "Auch der wissenschaft sollte immer misstraut werden.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -5,
-            "scty": -10
+            "cap": 0,
+            "nat": 0,
+            "dem": -5,
+            "fff": -10
         }
     },
     {
-        "question": "Abortion should be prohibited in most or all cases.",
+        "question": "Es gibt eine Weltverschwörung, die versucht uns zu täuschen.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
+            "cap": 0,
+            "nat": 0,
+            "dem": -10,
+            "fff": -10
         }
     },
     {
-        "question": "Gun ownership should be prohibited for those without a valid reason.",
+        "question": "Waffenbesitz sollte zur Selbstverteidigung erlaubt sein.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": 0
+            "cap": 0,
+            "nat": 0,
+            "dem": -10,
+            "fff": 0
         }
     },
     {
-        "question": "I support single-payer, universal healthcare.",
+        "question": "Arbeiterbewegungen und Gewerkschaften sind notwendig.",
         "effect": {
-            "econ": 10,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 0
+            "cap": 10,
+            "nat": 0,
+            "dem": 0,
+            "fff": 0
         }
     },
     {
-        "question": "Prostitution should be illegal.",
+        "question": "Wirtschaftliche Beziehungen zu Diktaturen sind gleichbedeutend mit Beziehungen zu demokratischen Nationen.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": -10,
-            "scty": -10
+            "cap": 0,
+            "nat": 0,
+            "dem": -10,
+            "fff": -10
         }
     },
     {
-        "question": "Maintaining family values is essential.",
+        "question": "Klimaschutz ist eine Modeerscheinung.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "cap": 0,
+            "nat": 0,
+            "dem": 0,
+            "fff": -10
         }
     },
     {
-        "question": "To chase progress at all costs is dangerous.",
+        "question": "Unsere derzeitige politische und soziale Lage ist zufriedenstellend.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": -10
+            "cap": 0,
+            "nat": 0,
+            "dem": 0,
+            "fff": -10
         }
     },
     {
-        "question": "Genetic modification is a force for good, even on humans.",
+        "question": "Die Menschheit zerstört die Natur unwiederbringlich.",
         "effect": {
-            "econ": 0,
-            "dipl": 0,
-            "govt": 0,
-            "scty": 10
+            "cap": 0,
+            "nat": 0,
+            "dem": 0,
+            "fff": 10
         }
     },
     {
-        "question": "We should open our borders to immigration.",
+        "question": "Asyo sollte jedem sofort zur Verfügung stehen.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 0
+            "cap": 0,
+            "nat": 10,
+            "dem": 10,
+            "fff": 0
         }
     },
     {
-        "question": "Governments should be as concerned about foreigners as they are about their own citizens.",
+        "question": "Es sollte keine Unterschiede zwischen Bürgern und Nicht-Bürgern geben.",
         "effect": {
-            "econ": 0,
-            "dipl": 10,
-            "govt": 0,
-            "scty": 0
+            "cap": 0,
+            "nat": 10,
+            "dem": 0,
+            "fff": 0
         }
     },
     {
-        "question": "All people - regardless of factors like culture or sexuality - should be treated equally.",
+        "question": "Alle Menschen sollten gleichgestellt werden - in ihren Rechten und ihren Pflichten.",
         "effect": {
-            "econ": 10,
-            "dipl": 10,
-            "govt": 10,
-            "scty": 10
+            "cap": 10,
+            "nat": 10,
+            "dem": 10,
+            "fff": 10
         }
     },
     {
-        "question": "It is important that we further my group's goals above all others.",
+        "question": "Meine Gruppe - Religion, Nation, Generation - ist anderen überlegen.",
         "effect": {
-            "econ": -10,
-            "dipl": -10,
-            "govt": -10,
-            "scty": -10
+            "cap": -10,
+            "nat": -10,
+            "dem": -10,
+            "fff": -10
         }
     }
 ];
